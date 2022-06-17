@@ -74,7 +74,7 @@ class HarmonicOscillator:
 		plt.tight_layout()
 		plt.show()
 
-#fali numericko racunanje perioda titranja
+#fali analiticko racunanje perioda titranja
 
 
 
